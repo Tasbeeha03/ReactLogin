@@ -1,0 +1,21 @@
+nav{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: right;
+   
+     background-color: black;
+     
+}
+ul{
+    display: flex;
+    justify-content:space-evenly;
+    list-style: none;
+    padding-right: 10px;
+    color: white;
+}
+li{
+    margin-right: 50px;
+}
+h1{
+    color: white;
+}
